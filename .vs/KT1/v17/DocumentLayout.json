@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\kt1adonet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\views\\page\\welcome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\views\\page\\welcome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|c:\\users\\0\\source\\repos\\kt1adonet\\kt1\\views\\page\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC95D7B-DB7C-4FE9-9F5B-86A10F9A665B}|KT1\\KT1.csproj|solutionrelative:kt1\\views\\page\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Program.cs",
+              "RelativeDocumentMoniker": "KT1\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Program.cs",
+              "RelativeToolTip": "KT1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:55:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KT1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KT1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-02T19:19:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KT1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KT1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T19:17:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Navigation.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeDocumentMoniker": "KT1\\Views\\Shared\\_Navigation.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeToolTip": "KT1\\Views\\Shared\\_Navigation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T19:16:40.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "KT1\\Controllers\\PageController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Controllers\\PageController.cs",
+              "RelativeToolTip": "KT1\\Controllers\\PageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T19:09:02.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Page\\Welcome.cshtml.cs",
+              "RelativeDocumentMoniker": "KT1\\Views\\Page\\Welcome.cshtml.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Page\\Welcome.cshtml.cs",
+              "RelativeToolTip": "KT1\\Views\\Page\\Welcome.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T19:08:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Page\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "KT1\\Views\\Page\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\kt1adonet\\KT1\\Views\\Page\\Welcome.cshtml",
+              "RelativeToolTip": "KT1\\Views\\Page\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T19:07:56.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
